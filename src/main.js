@@ -23,8 +23,8 @@ function save() {
   localStorage.setItem('is_game_complete', JSON.stringify(game.is_complete));
 }
 
-if(game.is_complete == false) {
-  document.getElementById("gamecomplete").style.display="none";
-} else {
+if(game.is_complete) {
   document.getElementById("gamenotcomplete").style.display="none";
+} else {
+  document.getElementById("gamecomplete").style.display="none";
 }
