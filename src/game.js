@@ -6,4 +6,8 @@ class Game {
   complete(){
     this.is_complete = true
   }
+
+  restart(){
+    this.is_complete = false
+  }
 }

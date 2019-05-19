@@ -1,14 +1,22 @@
 describe('Game', function(){
   var game;
 
-  it('Game starts off incomplete', function() {
+  beforeEach(function() {
     game = new Game();
+  });
+
+  it('Game starts off incomplete', function() {
     expect(game.is_complete).toBe(false);
   });
 
   it('Can complete game', function() {
-    game = new Game();
     game.complete();
     expect(game.is_complete).toBe(true);
+  });
+
+  it('Can restart game', function() {
+    game.complete();
+    game.restart();
+    expect(game.is_complete).toBe(false);
   });
 });
