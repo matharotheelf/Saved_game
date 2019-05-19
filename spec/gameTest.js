@@ -2,10 +2,10 @@ describe('Game', function(){
   var game;
 
   beforeEach(function() {
-    game = new Game();
+    game = new Game(false);
   });
 
-  it('Game starts off incomplete', function() {
+  it('Game status is saved', function() {
     expect(game.is_complete).toBe(false);
   });
 

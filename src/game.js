@@ -1,6 +1,6 @@
 class Game {
-  constructor(){
-    this.is_complete = false
+  constructor(is_complete){
+    this.is_complete = is_complete
   }
 
   complete(){
