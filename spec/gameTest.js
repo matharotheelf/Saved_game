@@ -5,4 +5,10 @@ describe('Game', function(){
     game = new Game();
     expect(game.is_complete).toBe(false);
   });
+
+  it('Can complete game', function() {
+    game = new Game();
+    game.complete();
+    expect(game.is_complete).toBe(true);
+  });
 });
