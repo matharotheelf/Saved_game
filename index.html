@@ -1,17 +1,28 @@
+<title> Save Game </title>
+<link rel="stylesheet" type="text/css" href="gamestyle.css">
+
 <body>
 
   <div id="gamenotcomplete">
-      Game not complete
-      <button onclick="complete()">Complete Game</button>
+      <div class="gamenotcomplete">
+      Game Not Complete!
+      </div>
+      <div class="button">
+      <button onclick="complete()" class="completebutton" >Complete Game</button>
+      </div>
   </div>
 
   <div id="gamecomplete">
-      Game complete
-      <button onclick="restart()">Restart Game</button>
+      <div class= "gamecomplete">
+      Game Complete!
+      </div>
+      <div class="button">
+      <button onclick="restart()" class="restartbutton">Restart Game</button>
+      </div>
   </div>
 
-  <div>
-      <button onclick="save()">Save Game</button>
+  <div class="button">
+      <button onclick="save()" class="savebutton">Save Game</button>
   </div>
 
 
