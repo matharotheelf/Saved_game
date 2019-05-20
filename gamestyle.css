@@ -1,4 +1,4 @@
-.gamenotcomplete, .gamecomplete{
+.gameinfotext{
   padding: 40px;
   text-align: center;
   font-family: "Verdana";
@@ -8,7 +8,7 @@
 }
 
 
-.completebutton , .restartbutton, .savebutton{
+.button{
   background-color: maroon;
   border: none;
   color: white;
@@ -21,7 +21,7 @@
   cursor: pointer;
 }
 
-.button{
+.buttondiv{
   text-align: center;
   padding: 20px;
 }
