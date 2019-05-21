@@ -38,8 +38,8 @@ To save the progress of the 'game' when either complete or incomplete press "Sav
 ## User Stories
 ```
 As a User 
-So I can complete a 'game', I can press a "Complete Game" button which completes a 'game'.
-So I can restart a 'game', I can press a "Restart Game" button which restarts a 'game'.
+So I can complete the 'game', I can press a "Complete Game" button which completes the 'game'.
+So I can restart the 'game', I can press a "Restart Game" button which restarts the 'game'.
 So I can save my 'game', I can press a "Save Game" button which stores the 'game' status to local storage.
 
 ```
