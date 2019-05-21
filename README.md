@@ -20,9 +20,10 @@ Jasmine
 
 ```bash
 $ git clone https://github.com/matharotheelf/taboolawidget
+
+```
 To see the widget run the file index.html in any browser
 To run the tests run the file SpecRunner.html in any browser
-```
 
 ## How to Use
 
