@@ -19,7 +19,7 @@ Jasmine
 ## Quickstart
 
 ```bash
-$ git clone https://github.com/matharotheelf/taboolawidget
+$ git clone https://github.com/matharotheelf/Saved_game
 
 ```
 To see the widget run the file index.html in any browser.
