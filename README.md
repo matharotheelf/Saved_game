@@ -47,13 +47,19 @@ So I can save my 'game', I can press a "Save Game" button which stores my 'game'
 
 ## References
 
-To display whether game is complete or incomplete: https://stackoverflow.com/questions/3961422/conditional-display-of-html-element-forms
+To display whether game is complete or incomplete: 
 
-To create buttons: https://www.w3schools.com/jsref/event_onclick.asp
+https://stackoverflow.com/questions/3961422/conditional-display-of-html-element-forms
 
-To display whether game is complete or incomplete: https://stackoverflow.com/questions/2928688/how-to-hide-elements-without-having-them-take-space-on-the-page
+https://stackoverflow.com/questions/2928688/how-to-hide-elements-without-having-them-take-space-on-the-page
 
-To display whether game is complete or incomplete: https://stackoverflow.com/questions/17630945/is-there-an-opposite-to-displaynone
+https://stackoverflow.com/questions/17630945/is-there-an-opposite-to-displaynone
+
+To create buttons: 
+
+https://www.w3schools.com/jsref/event_onclick.asp
+
+To format the user interface:
 
 https://css-tricks.com/almanac/properties/t/text-align/
 
