@@ -3,10 +3,10 @@ Creating a save game app.
 
 ## Description
 
-This app allows the user save a 'game' progress. It has the following features:
-* Users can complete a game.
-* Users can restart a game.
-* Users can save game progress to local storage.
+This app allows the user save progress in a 'game'. It has the following features:
+* Users can complete a 'game'.
+* Users can restart a 'game'.
+* Users can save 'game' progress to local storage.
 
 ## Tech Stack
 
@@ -30,7 +30,7 @@ When on the page of the app, press "Complete Game" to complete the 'game'.
 
 Then you can press "Restart Game" to restart the 'game'.
 
-To save the progress of the 'game' at either complete or incomplete press "Save Game". This means when you re-open the page later in the same browser you will find the 'game' in the same state.
+To save the progress of the 'game' as either complete or incomplete press "Save Game". This means when you re-open the page later in the same browser you will find the 'game' in the same state.
 
 ## User Stories
 ```
