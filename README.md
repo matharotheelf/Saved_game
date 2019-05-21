@@ -10,7 +10,9 @@ This app allows the user save a 'game' progress. It has the following features:
 
 ## Tech Stack
 Javascript
+
 HTML
+
 CSS
 
 **Testing**
