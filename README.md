@@ -41,6 +41,12 @@ So I can save my 'game', I can press a "Save Game" button which stores my 'game'
 
 ```
 
+## Screenshots
+
+**App When Game Incomplete**
+
+<img width="649" alt="Screen Shot 2019-05-21 at 12 45 33" src="https://user-images.githubusercontent.com/44533664/58093811-376b5480-7bc7-11e9-8012-4426f85f2d36.png">
+
 ## References
 
 To display whether game is complete or incomplete: 
